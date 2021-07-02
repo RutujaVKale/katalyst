@@ -1,0 +1,26 @@
+.mainpage__conatainer {
+  height: 560px;
+  background-color: #eff2f5;
+}
+
+.leftSide_container {
+  display: flex;
+  margin: 15px;
+}
+.leftSide_component_img {
+  max-width: 35px;
+  max-height: 35px;
+}
+
+.leftSide_component_txt {
+  margin: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.middelecontainer {
+  overflow-y: scroll;
+  margin-left: 50px !important;
+  height: 560px;
+  max-width: 620px !important;
+}

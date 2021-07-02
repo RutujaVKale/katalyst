@@ -1,0 +1,41 @@
+.uploadPost__container {
+  height: 127px;
+  width: 600px;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.uploadTop {
+  display: flex;
+}
+
+.bottom_img {
+  display: flex;
+  width: 200px;
+}
+
+.uploadBottom {
+  border-top: 1px solid rgb(243, 239, 239);
+  display: flex;
+  margin-left: 120px;
+}
+
+.upload__text {
+  margin-top: 15px;
+}
+.upload__img {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.upload__box {
+  height: 40px;
+  width: 480px;
+  border: 0px;
+  background-color: #eff2f5;
+  border-radius: 30px;
+  font-size: 16px;
+  padding-left: 20px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
